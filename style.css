@@ -67,7 +67,7 @@ button:hover {
   padding: 15px;
   background-color: #f8f6fb;
   border-radius: 6px;
-  border-left: 4px solid #7811a0;
+  border-bottom: 4px solid #7811a0;
   display: flex;
   flex-direction: column;
   gap: 10px;
